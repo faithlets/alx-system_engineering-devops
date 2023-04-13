@@ -1,0 +1,2 @@
+#!/bin/bask
+chown -h vincent:staff _hello
