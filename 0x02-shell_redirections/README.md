@@ -1,1 +1,1 @@
-this is my first readme file on shell direcoties
+this is my readme file on shell directories
